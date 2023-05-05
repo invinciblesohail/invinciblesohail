@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @invinciblesohail
 - 👀 I’m interested in Data Science and Machine Learning Projects
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently working on Machine Learning Competitions on Kaggle
 - 💞️ I’m looking to collaborate on Kaggle Challenges
 - 📫 How to reach me (samemon.uclan@gmail.com)
 
